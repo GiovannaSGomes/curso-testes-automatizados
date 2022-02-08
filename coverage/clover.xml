@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1643072416469" clover="3.2.0">
-  <project timestamp="1643072416469" name="All files">
+<coverage generated="1644198767394" clover="3.2.0">
+  <project timestamp="1644198767394" name="All files">
     <metrics statements="49" coveredstatements="44" conditionals="10" coveredconditionals="8" methods="20" coveredmethods="18" elements="79" coveredelements="70" complexity="0" loc="49" ncloc="49" packages="1" files="4" classes="4"/>
     <file name="array.js" path="C:\Users\giova\curso-testes-automatizados\Aula 2\array.js">
       <metrics statements="24" coveredstatements="19" conditionals="8" coveredconditionals="6" methods="9" coveredmethods="7"/>
